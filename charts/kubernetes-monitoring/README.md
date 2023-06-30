@@ -9,6 +9,7 @@ A Helm chart for Kubernetes Monitoring
 | Name | Email | Url |
 | ---- | ------ | --- |
 | petewall | <pete.wall@grafana.com> |  |
+| skl | <stephen.lang@grafana.com> |  |
 
 ## Requirements
 
